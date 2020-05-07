@@ -1,0 +1,12 @@
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\bin\Debug\WinUI.exe.config
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\bin\Debug\WinUI.exe
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\bin\Debug\WinUI.pdb
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.exe
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.pdb
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.frmPrincipal.resources
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.csprojAssemblyReference.cache
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.frmInicio.resources
+C:\Users\YSABELITA\source\repos\SlnUI\WinUI\obj\Debug\WinUI.frmProductos.resources
